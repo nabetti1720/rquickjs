@@ -1,3 +1,4 @@
 [submodule "rquickjs-sys/quickjs"]
 	path = sys/quickjs
-	url = https://github.com/quickjs-ng/quickjs.git
+	url = https://github.com/nabetti1720/quickjs.git
+	branch = feat/promise-before-after-hook
